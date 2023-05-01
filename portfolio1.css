@@ -1,0 +1,175 @@
+.box1{
+    border: 2px solid black;
+    width: 25%;
+    height: 245%;
+    float: left;
+    position:absolute;
+    margin: 60px 100px 0px 150px;
+    background: linear-gradient(to top right,rgb(47, 47, 49),white,rgb(43, 43, 46));
+
+}
+.box2{
+    background-color:rgb(224, 217, 217) ;
+    border: 2px solid black;
+    width: 55%;
+    height: auto;
+    clear: left;
+    position:absolute;
+    margin: 60px 300px 0px 485px ;
+    text-align: left;
+    font-family: serif;
+
+}
+table{
+    border: 2px solid transparent;
+    padding-top: 50px;
+}
+.profile{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+
+}
+.t1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    font-weight: bolder;
+    text-align: center;
+    border-color: transparent;
+    padding-top: 20px;
+}
+.t2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: left;
+    padding-left: 20px;
+    text-transform: uppercase;
+    padding-top: 20px;
+}
+.name {
+    float:left;
+	margin-left: 20px;
+	padding-bottom: 10px;
+	font-size: 16px;
+	font-family: Verdana, sans-serif;
+	color: #ffffff;
+}
+.header
+{
+    position: fixed;
+    z-index: 1;
+    height:50px;
+    width: 100%;
+    background-color: #668284;
+    margin-bottom: 10px;
+    border-radius:10px;
+    text-align: center;
+    }
+.email{
+        float:right;
+        font-family: Verdana, sans-serif;
+        color: #ece6e6;
+    }
+    h3
+    {
+        text-decoration: underline;
+        }
+
+        .td1
+        {
+            padding: 4px;
+            border: 1px solid #413d3b;
+            }
+.p1{
+    font-size: 15px;
+    text-align: left;
+    padding-left: 30px;
+    padding-right: 10px;
+    padding-top: 2px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.t4{
+    font-size: 15px;
+    text-align: left;
+    padding-left: 30px;
+    padding-right: 10px;
+    padding-top: 2px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.t5{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: left;
+    font-weight: lighter;
+    padding-left: 20px;
+    text-transform: uppercase;
+}
+#heading
+{
+    font-weight:bold;
+    }
+    .topnav {
+        background-color: #333;
+        overflow: hidden;
+      }
+      
+      /* Style the links inside the navigation bar */
+      .topnav a {
+        float: left;
+        color: #f2f2f2;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+      }
+      
+      /* Change the color of links on hover */
+      .topnav a:hover {
+        background-color: #ddd;
+        color: black;
+      }
+      
+      /* Add a color to the active/current link */
+      .topnav a.active {
+        background-color: #0b19df;
+        color: white;
+      }
+      .topnav a.split {
+        float: right;
+        background-color: #1926d8;
+        color: white;
+      }
+      footer {
+        background-color: #131313;
+      }
+      
+      footer > span {
+        font-size: 15px;
+        color: #555;
+      }
+      
+      .footer-nav {
+        padding: 20px;
+        text-transform: uppercase;
+        text-align: center;
+      }
+      
+      .footer-nav li {
+        display: inline;
+        font-weight: 600;
+        padding-right: 20px;
+      }
+      
+      .footer-nav a {
+        color: #79797B;
+        text-decoration: none;
+        font-size: 15px;
+      }
+      
+      .footer-nav a:hover {
+        color: #fbfbfb;
+      }
+      
+      

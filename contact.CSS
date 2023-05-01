@@ -1,0 +1,64 @@
+body{
+    background-image: url("BG2.jpg");
+    background-size: cover;
+    background-color: #cccccc;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+table{
+    margin-top: 30px;
+    background-color: #F15CA8;
+    width: auto;
+}
+th{
+    background-color: #DF0071;
+
+}
+input{
+    width: 80%;
+}
+#color{
+    background-color: #EF2F91;
+
+}
+.button{
+    width: 100px;
+    background-color: #DF0071;
+}
+@media screen and (min-width: 300px) {
+    table.a1 {
+      font-size: 30px;
+    }
+  }
+  
+  @media screen and (max-width: 600px) {
+    table.a1 {
+      font-size: 30px;
+    }
+  }
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color: #e40ba3ea;
+    color: white;
+  }
+  .topnav a.split {
+    float: right;
+    background-color: #e40ba3ea;
+    color: white;
+  }
